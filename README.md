@@ -16,3 +16,8 @@
 * Analysis 1: Mac-friendly game categories (ranking different game categories by how many games of such category can be played on Mac);
 * Analysis 2: Free games by game type (ranking game types by the absence of a need to pay for use);
 * Functions used: RANK, COUNT.
+
+## 5. Vizualisation
+* I decided to make a bar chart in Tableau based on the results of Analysis 1:
+  <img width="914" height="792" alt="Top10_Game_Genres_For_Mac" src="https://github.com/user-attachments/assets/e3ca6ccf-aba7-4791-88f8-d09a58f57c49" />
+
