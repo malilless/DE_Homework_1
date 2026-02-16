@@ -14,4 +14,5 @@
 
 ## 4. Data Analysis Using Window Functions
 * Analysis 1: Mac-friendly game categories (ranking different game categories by how many games of such category can be played on Mac);
-* Analysis 2: Free games by game type (ranking game types by the absence of a need to pay for use).
+* Analysis 2: Free games by game type (ranking game types by the absence of a need to pay for use);
+* Functions used: RANK, COUNT.
